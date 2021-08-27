@@ -3,12 +3,32 @@
     <title>maldivxyz.netlify.app</title>
     <link href="https://thoriqjameel.github.io/maldiv/feed.xml" rel="self" />
     <link href="https://thoriqjameel.github.io/maldiv" />
-    <updated>2021-08-11T16:16:02+05:00</updated>
+    <updated>2021-08-27T21:39:47+05:00</updated>
     <author>
         <name>thori</name>
     </author>
     <id>https://thoriqjameel.github.io/maldiv</id>
 
+    <entry>
+        <title>Test me if you like</title>
+        <author>
+            <name>thori</name>
+        </author>
+        <link href="https://thoriqjameel.github.io/maldiv/test-me-if-you-like.html"/>
+        <id>https://thoriqjameel.github.io/maldiv/test-me-if-you-like.html</id>
+
+        <updated>2021-08-27T21:39:47+05:00</updated>
+            <summary>
+                <![CDATA[
+                    this is ithe the one who write it me thoriq
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this is ithe the one who write it me thoriq</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>World War 2(Part 1)</title>
         <author>
