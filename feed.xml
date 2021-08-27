@@ -3,12 +3,36 @@
     <title>maldivxyz.netlify.app</title>
     <link href="https://thoriqjameel.github.io/maldiv/feed.xml" rel="self" />
     <link href="https://thoriqjameel.github.io/maldiv" />
-    <updated>2021-08-27T21:39:47+05:00</updated>
+    <updated>2021-08-27T21:44:31+05:00</updated>
     <author>
         <name>thori</name>
     </author>
     <id>https://thoriqjameel.github.io/maldiv</id>
 
+    <entry>
+        <title>my name is thoriq</title>
+        <author>
+            <name>thori</name>
+        </author>
+        <link href="https://thoriqjameel.github.io/maldiv/my-name-is-thoriq.html"/>
+        <id>https://thoriqjameel.github.io/maldiv/my-name-is-thoriq.html</id>
+
+        <updated>2021-08-27T21:44:31+05:00</updated>
+            <summary>
+                <![CDATA[
+                    my name this i not thoriq anythingk i twrite shouljhdn not apear in the wscreen i dont see the imagees why is tgaht anyt area toy loooking in thenihs
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>my name this i not thoriq</strong></p>
+<hr>
+<p>anythingk i twrite shouljhdn not apear in the wscreen<figure class="post__image"><img loading="lazy"  src="https://thoriqjameel.github.io/maldiv/media/posts/10/Screenshot-2021-07-16-121914.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://thoriqjameel.github.io/maldiv/media/posts/10/responsive/Screenshot-2021-07-16-121914-xs.png 300w ,https://thoriqjameel.github.io/maldiv/media/posts/10/responsive/Screenshot-2021-07-16-121914-sm.png 480w ,https://thoriqjameel.github.io/maldiv/media/posts/10/responsive/Screenshot-2021-07-16-121914-md.png 768w ,https://thoriqjameel.github.io/maldiv/media/posts/10/responsive/Screenshot-2021-07-16-121914-lg.png 1024w ,https://thoriqjameel.github.io/maldiv/media/posts/10/responsive/Screenshot-2021-07-16-121914-xl.png 1360w ,https://thoriqjameel.github.io/maldiv/media/posts/10/responsive/Screenshot-2021-07-16-121914-2xl.png 1600w"  alt="nothing hrer go away" width="1195" height="625"></figure>
+<p> </p>
+<p>i dont see the imagees why is tgaht anyt area toy loooking in thenihs</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test me if you like</title>
         <author>
